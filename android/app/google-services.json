@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78592403770",
+    "project_id": "mysp-demo-b2396",
+    "storage_bucket": "mysp-demo-b2396.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78592403770:android:ccd9490203acf03660c803",
+        "android_client_info": {
+          "package_name": "com.example.ex_yt_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkGy1QmtGn9t76z9MV7POKI9LNwQb_v08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
